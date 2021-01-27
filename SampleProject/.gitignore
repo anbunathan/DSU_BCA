@@ -1,0 +1,14 @@
+data
+knn
+path
+venv
+.idea
+dist
+main.spec
+build
+jar/
+target/
+queryimages/
+.gradle
+test-output/
+gradle/
